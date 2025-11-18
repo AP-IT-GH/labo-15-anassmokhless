@@ -150,4 +150,4 @@ Nu kan je de gebruiker laten kiezen uit 1 van de dieren. Gebruik de arraypositie
 
 ### voorbeeldinteractie
 
-![voorbeeldinteractie(./voorbeeldinteractie-dieren.gif)
+![voorbeeldinteractie](./voorbeeldinteractie-dieren.gif)
